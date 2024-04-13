@@ -23,11 +23,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -40,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+I was bored in lecture and went to theuselessweb.com and it took me to puginarug.com. I though the concept was funny and had the idea to create a simple project in MATLAB to practice loops and the imread function, and I used the image of Dr. Hale (a professor I've heard of) because Hale rhymes with hail and it remains true to the spirit of puginarug.com. I found the image on google so I'm pretty sure that means I can use it. I think.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,6 +57,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 Download 'hale.jpg' and 'HH_htps.mlx' and check that they're in the same folder. Open 'HH_htps.mlx' in MATLAB and check the left half of the screen to ensure the current folder contains both files listed above. Select the Live Editor tab across the top of the screen and press the Run button. 
 
+
+
+<!-- PREREQUISITES -->
 ### Prerequisites
 
 Download and install MATLAB
@@ -71,7 +72,6 @@ Download and install MATLAB
 This project is not useful at all, it is literally based off of puginarug.com which is 'a useless web project'.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -114,9 +114,9 @@ Please don't contact me <3
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* []() All hail Dr. Hale
+* []() All hail Dr. Hale
+* []() All hail Dr. Hale
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
