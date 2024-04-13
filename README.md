@@ -46,7 +46,7 @@ I was bored in lecture and went to theuselessweb.com and it took me to puginarug
 
 ### Built With
 
-* [![MATLAB]]
+* MATLAB
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
